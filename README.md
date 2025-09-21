@@ -29,7 +29,7 @@ Android Studio (for running on simulators/emulators)
 
 Frontend: Flutter
 
-Storage: Local storage / SQLite / Firebase (depending on what you’re using)
+Storage: Firebase (depending on what you’re using)
 
 💡 Future Enhancements
 
